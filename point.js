@@ -15,9 +15,9 @@
   } else {
     return;
   }
-  var m = Math.round((gauge_height / origin_height) * 100);
+  var m = Math.round(gauge_height / origin_height * 25 * 10)/10;
   var k = document.querySelector(
     "#inner > div.frame01.w460 > div.frame01_inside > div:nth-child(2) > div:nth-child(4) > div.box01_title.text_b"
   );
-  k.textContent = m;
+  k.textContent = "残り"+m+"pt";
 })();
