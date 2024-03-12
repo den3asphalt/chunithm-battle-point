@@ -1,3 +1,4 @@
+[![JavaScript](https://custom-icon-badges.herokuapp.com/badge/JavaScript-f1e05a.svg?logo=JavaScript&logoColor=white)]()
 # 全国対戦のゲージをわかりやすくする
 チュウニズムの全国対戦についていろいろと調査しているページ。  
 現在は全国対戦の**昇格までの残りゲージ**(現在のゲージ)を可視化することを行っている。
