@@ -8,7 +8,7 @@
 
 ## Bookmarklet
 ```
-javascript:(function()%7Bvar%20s=document.createElement(%22script%22);s.src=%22https://github.com/den3asphalt/chunithm-battle-point/blob/main/point.js%22;document.body.appendChild(s);%7D)()
+javascript:(function()%7Bvar%20s=document.createElement(%22script%22);s.src=%22https://raw.githubusercontent.com/den3asphalt/chunithm-battle-point/main/point.js%22;document.body.appendChild(s);%7D)()
 ```
 
 以上のものをコピーしてブックマークレットとして使うと、「昇格」までの残りポイントがわかる。
