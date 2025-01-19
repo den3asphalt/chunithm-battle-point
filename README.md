@@ -14,7 +14,21 @@ javascript:(function () {var gauge = document.querySelector("#inner > div.frame0
 
 以上のものをコピーしてブックマークレットとして使うと、「昇格」までの残りポイントがわかる。
 
-## What's this point?
+## What's this point? in VERSE
+100等分したゲージの1つを1ptとしたとき、初期ゲージは**10.2pt**程度であり、SS帯と煌帯は以下に従う。
+
+**調査中**
+
+| 順位 | SS帯  | 煌帯 | 
+| ---- | ----- | ---- | 
+| 1位  | ? | ? | 
+| 2位  | ?  | ? | 
+| 3位  | ?  | ? | 
+| 4位  | ?  | ? | 
+
+
+
+## What's this point? in LUMINOUS
 100等分したゲージの1つを1ptとしたとき、初期ゲージは**10.2pt**程度であり、SS帯と煌帯は以下に従う。
 
 | 順位 | SS帯  | 煌帯 | 
